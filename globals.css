@@ -1,0 +1,39 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "Museo Sans-500";
+  src: url("https://anima-uploads.s3.amazonaws.com/5bf7a2010c3abe000b678507/Museo Sans.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Museo Sans-300";
+  src: url("https://anima-uploads.s3.amazonaws.com/5bf7a2010c3abe000b678507/MuseoSans-300.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Museo Sans-900";
+  src: url("https://anima-uploads.s3.amazonaws.com/5b629ea4f333e4000bb23b2e/MuseoSans_900.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Museo Sans-Regular";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/604c3e464132ee9fa0b99972/fonts/museosans-500.otf")
+    format("opentype");
+}

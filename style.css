@@ -1,0 +1,423 @@
+.wireframe {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 2063px;
+  position: relative;
+}
+
+.wireframe .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 568px;
+  top: 0;
+  left: 0;
+}
+
+.wireframe .asset {
+  position: absolute;
+  width: 1280px;
+  height: 410px;
+  top: 158px;
+  left: 160px;
+  object-fit: cover;
+}
+
+.wireframe .asset-x {
+  position: absolute;
+  width: 889px;
+  height: 568px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.wireframe .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 150px;
+  top: 0;
+  left: 0;
+  background-color: #20bec6;
+}
+
+.wireframe .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 9px;
+  top: 149px;
+  left: 0;
+  background-color: #3f3e99;
+}
+
+.wireframe .img {
+  position: absolute;
+  width: 277px;
+  height: 89px;
+  top: 30px;
+  left: 183px;
+  object-fit: cover;
+}
+
+.wireframe .text-wrapper {
+  position: absolute;
+  width: 155px;
+  top: 102px;
+  left: 524px;
+  font-family: "Museo Sans-500", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .text-wrapper-2 {
+  position: absolute;
+  width: 188px;
+  top: 102px;
+  left: 692px;
+  font-family: "Museo Sans-500", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .text-wrapper-3 {
+  position: absolute;
+  width: 229px;
+  top: 102px;
+  left: 893px;
+  font-family: "Museo Sans-500", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .asset-2 {
+  position: absolute;
+  width: 248px;
+  height: 59px;
+  top: 495px;
+  left: 183px;
+  object-fit: cover;
+}
+
+.wireframe .rectangle-3 {
+  position: absolute;
+  width: 83px;
+  height: 29px;
+  top: 103px;
+  left: 1145px;
+  background-color: #ffffff;
+  border-radius: 7px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.wireframe .text-wrapper-4 {
+  position: absolute;
+  width: 95px;
+  height: 19px;
+  top: 106px;
+  left: 1139px;
+  font-family: "Museo Sans-500", Helvetica;
+  font-weight: 400;
+  color: #20bec6;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .rectangle-4 {
+  position: absolute;
+  width: 279px;
+  height: 3px;
+  top: 605px;
+  left: 972px;
+  background-color: #3f3e99;
+}
+
+.wireframe .overlap {
+  position: absolute;
+  width: 279px;
+  height: 344px;
+  top: 1156px;
+  left: 972px;
+}
+
+.wireframe .rectangle-5 {
+  position: absolute;
+  width: 279px;
+  height: 3px;
+  top: 52px;
+  left: 0;
+  background-color: #3f3e99;
+}
+
+.wireframe .p {
+  position: absolute;
+  width: 279px;
+  top: 0;
+  left: 0;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-5 {
+  position: absolute;
+  width: 336px;
+  height: 14px;
+  top: 634px;
+  left: 178px;
+  font-family: "Museo Sans-900", Helvetica;
+  font-weight: 400;
+  color: #3f3e99;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .overlap-2 {
+  position: absolute;
+  width: 540px;
+  height: 78px;
+  top: 1442px;
+  left: 180px;
+}
+
+.wireframe .text-wrapper-6 {
+  position: absolute;
+  width: 387px;
+  height: 62px;
+  top: 0;
+  left: 3px;
+  font-family: "Museo Sans-900", Helvetica;
+  font-weight: 400;
+  color: #3f3e99;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-7 {
+  position: absolute;
+  width: 540px;
+  height: 32px;
+  top: 46px;
+  left: 0;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-8 {
+  position: absolute;
+  width: 275px;
+  height: 14px;
+  top: 634px;
+  left: 972px;
+  font-family: "Museo Sans-900", Helvetica;
+  font-weight: 400;
+  color: #3f3e99;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .overlap-3 {
+  position: absolute;
+  width: 543px;
+  height: 318px;
+  top: 675px;
+  left: 177px;
+}
+
+.wireframe .a-risk-evaluation {
+  position: absolute;
+  width: 537px;
+  top: 0;
+  left: 0;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .rectangle-6 {
+  position: absolute;
+  width: 542px;
+  height: 150px;
+  top: 168px;
+  left: 1px;
+  background-color: #20bec6;
+}
+
+.wireframe .healthcare-setting {
+  position: absolute;
+  width: 337px;
+  height: 53px;
+  top: 202px;
+  left: 149px;
+  font-family: "Museo Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .span {
+  font-family: "Museo Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.wireframe .rectangle-7 {
+  position: absolute;
+  width: 103px;
+  height: 27px;
+  top: 271px;
+  left: 279px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.wireframe .text-wrapper-9 {
+  position: absolute;
+  width: 105px;
+  height: 18px;
+  top: 276px;
+  left: 279px;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #20bec6;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .asset-3 {
+  position: absolute;
+  width: 91px;
+  height: 91px;
+  top: 203px;
+  left: 30px;
+  object-fit: cover;
+}
+
+.wireframe .reporting-of {
+  position: absolute;
+  width: 279px;
+  top: 666px;
+  left: 972px;
+  font-family: "Museo Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-10 {
+  color: #000000;
+}
+
+.wireframe .text-wrapper-11 {
+  color: #20bec6;
+}
+
+.wireframe .text-wrapper-12 {
+  position: absolute;
+  width: 279px;
+  height: 16px;
+  top: 1132px;
+  left: 972px;
+  font-family: "Museo Sans-900", Helvetica;
+  font-weight: 400;
+  color: #3f3e99;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wireframe .severe-peri {
+  position: absolute;
+  width: 542px;
+  top: 1167px;
+  left: 177px;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .WARNING-SEVERE-PERI {
+  position: absolute;
+  width: 533px;
+  height: 30px;
+  top: 1137px;
+  left: 186px;
+  font-family: "Museo Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-13 {
+  font-family: "Museo Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.wireframe .asset-4 {
+  position: absolute;
+  width: 1076px;
+  height: 499px;
+  top: 1523px;
+  left: 182px;
+  object-fit: cover;
+}
